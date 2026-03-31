@@ -1,0 +1,88 @@
+01. Welcome
+	(1280, 720) | 01. Welcome.mp4
+	(1280, 720) | 02. You'll be a builder.mp4
+	(1280, 720) | 03. Get the most out of the course.mp4
+02. Environment Setup - Trying Things out
+	(1280, 720) | 01. Python and PySide6 Install.mp4
+	(1280, 720) | 02. Understanding the Code.mp4
+	(1280, 720) | 03. Organizing Code in Classes.mp4
+03. Signals and Slots
+	(1280, 720) | 01. Signals and Slots.mp4
+04. A Tour of Qt Widgets
+	(1280, 720) | 01. Introduction.mp4
+	(1280, 720) | 02. QWidget.mp4
+	(1280, 720) | 03. QMainWindow.mp4
+	(1280, 720) | 04. QMessageBox.mp4
+	(1280, 720) | 05. QPushButton.mp4
+	(1280, 720) | 06. QLabel and QLineEdit.mp4
+	(1280, 720) | 07. QTextEdit.mp4
+	(1280, 720) | 08. QLabel and Images.mp4
+	(1280, 720) | 09. Size Policies and Stretches.mp4
+	(1280, 720) | 10. QGridLayout.mp4
+	(1280, 720) | 11. QCheckBox and QRadioButton.mp4
+	(1280, 720) | 12. QListWidget.mp4
+	(1280, 720) | 13. QTabWidget.mp4
+	(1280, 720) | 14. QComboBox.mp4
+	(1280, 720) | 15. Summary.mp4
+05. Qt Designer
+	(1280, 720) | 01. Introduction & Install.mp4
+	(1280, 720) | 02. Using Qt Designer.mp4
+	(1280, 720) | 03. Using Qt Creator.mp4
+	(1280, 720) | 04. Qt Designer and QuILoader.mp4
+	(1280, 720) | 05. Qt Designer and QuiLoader V2.mp4
+	(1280, 720) | 06. Compiling User Interfaces to Python.mp4
+	(1280, 720) | 07. Working with resources manually  Qt Designer.mp4
+	(1280, 720) | 08. Working with resources manually  Qt Creator.mp4
+	(1280, 720) | 09. Loading resources from Qt Designer.mp4
+	(1280, 720) | 10. Loading resources from Qt Creator.mp4
+	(1280, 720) | 11. QMainWindow  Putting it all togerher!.mp4
+	(1280, 720) | 12. Summary.mp4
+06. Dialogs
+	(1280, 720) | 01. Introduction.mp4
+	(1280, 720) | 02. QDialog.mp4
+	(1280, 720) | 03. QDialogButtonBox.mp4
+	(1280, 720) | 04. QFileDialog.mp4
+	(1280, 720) | 05. QFontDialog.mp4
+	(1280, 720) | 06. QColorDialog.mp4
+	(1280, 720) | 07. QInputDialog.mp4
+	(1280, 720) | 08. Summary.mp4
+07. Styling
+	(1280, 720) | 01. Introduction.mp4
+	(1280, 720) | 02. Styles.mp4
+	(1280, 720) | 03. QPalette.mp4
+	(1280, 720) | 04. QPalette Limitations.mp4
+	(1280, 720) | 05. Stylesheets.mp4
+	(1280, 720) | 06. External Stylesheets.mp4
+	(1280, 720) | 07. Summary.mp4
+08. Working with Settings
+	(1280, 720) | 01. QSettings.mp4
+09. Files and Directories
+	(1280, 720) | 01. Introduction.mp4
+	(1280, 720) | 02. QFile.mp4
+	(1280, 720) | 03. QDir.mp4
+	(1280, 720) | 04. Summary.mp4
+10. Working with Network
+	(1280, 720) | 01. Introduction.mp4
+	(1280, 720) | 02. Downloading web Pages with QNetworkAccessManager.mp4
+	(1280, 720) | 03. Handling JSON APIs.mp4
+	(1280, 720) | 04. Summary.mp4
+11. Model View Architecture
+	(1280, 720) | 01. Introduction.mp4
+	(1280, 720) | 02. QListWidget.mp4
+	(1280, 720) | 03. QTableWidget.mp4
+	(1280, 720) | 04. QTreeWidget.mp4
+	(1280, 720) | 05. QStringListModel and QListView.mp4
+	(1280, 720) | 06. QTableView and QStandardItemModel.mp4
+	(1280, 720) | 07. QTreeView and QStandardItemModel.mp4
+	(1280, 720) | 08. QListView, QTreeView and QFileSytemModel.mp4
+	(1280, 720) | 09. QModelIndex Addressing.mp4
+	(1280, 720) | 10. Custom Models  Theory.mp4
+	(1280, 720) | 11. Custom Table Model.mp4
+	(1280, 720) | 12. Custom Table Model with Roles.mp4
+	(1280, 720) | 13. Custom Table Model with Header Data.mp4
+	(1280, 720) | 14. Custom Table Model with Modifications.mp4
+	(1280, 720) | 15. Summary.mp4
+12. Packaging
+	(1280, 720) | 01. Packaging.mp4
+13. Farewell
+	(1280, 720) | 01. Farewell.mp4
